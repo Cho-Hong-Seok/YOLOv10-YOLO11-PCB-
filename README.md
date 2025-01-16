@@ -20,3 +20,17 @@
 #### 🛠️ 활용 사례
 전자기기 제조 공정 품질 관리
 대량 PCB 제조 라인의 실시간 결함 감지 시스템
+
+#### ✔︎ 결과  
+- Instances
+<img src="https://github.com/user-attachments/assets/bda8e05c-2375-4660-ae96-ac17305cd1d9" width="300" height="300">  
+
+- YOLOv10 Confusion Matrix  
+<img src="https://github.com/user-attachments/assets/dc16c747-3143-40a1-8c46-8470a5bfdf8e" width="350" height="350">
+
+- YOLOv11 Confusion Matrix
+<img src="https://github.com/user-attachments/assets/fbfb8335-dbd2-4b63-a766-62a4d3b66b41" width="350" height="350"> 
+
+- Inference image
+<img src="https://github.com/user-attachments/assets/316994fb-73c6-4d3c-b7f9-2e8d6d2fc842" width="350" height="700"> 
+
